@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Nowhere (VIVINOS - ALNST Sub : Ivan Part.1)",
+  "base_artist": "Park Byeonghoon",
+  "createdAt": "2026-03-31T14:47:57.850683Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Nowhere (VIVINOS - ALNST Sub : Ivan Part.1)",
+      "artist": "Park Byeonghoon",
+      "has_synced": true,
+      "path": "select/01_Nowhere_(VIVINOS_-_ALNST_Sub___Ivan_Part.1)_Park_Byeonghoon.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Nowhere (VIVINOS - ALNST Sub : Ivan Part.1)",
+      "artist": "PARK BYEONG HOON",
+      "has_synced": true,
+      "path": "select/02_Nowhere_(VIVINOS_-_ALNST_Sub___Ivan_Part.1)_PARK_BYEONG_HOON.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Nowhere (VIVINOS - ALNST Sub: Ivan Part.1) - PARK BYEONG HOON",
+      "artist": "@Teddy0418",
+      "has_synced": true,
+      "path": "select/03_Nowhere_(VIVINOS_-_ALNST_Sub__Ivan_Part.1)_-_PARK_BYEONG_HOON_@Teddy0418.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "A Thousand Miles from Nowhere",
+      "artist": "Dwight Yoakam",
+      "has_synced": true,
+      "path": "select/04_A_Thousand_Miles_from_Nowhere_Dwight_Yoakam.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "A Thousand Miles from Nowhere (LP Version)",
+      "artist": "Dwight Yoakam",
+      "has_synced": true,
+      "path": "select/05_A_Thousand_Miles_from_Nowhere_(LP_Version)_Dwight_Yoakam.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "A Thousand Miles From Nowhere - 2006 Remastered Version",
+      "artist": "Dwight Yoakam",
+      "has_synced": true,
+      "path": "select/06_A_Thousand_Miles_From_Nowhere_-_2006_Remastered_Version_Dwight_Yoakam.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "A Thousand Miles from Nowhere (Remastered LP Version)",
+      "artist": "Dwight Yoakam",
+      "has_synced": true,
+      "path": "select/07_A_Thousand_Miles_from_Nowhere_(Remastered_LP_Version)_Dwight_Yoakam.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lost in the Middle of Nowhere",
+      "artist": "Kane Brown feat. Becky G",
+      "has_synced": true,
+      "path": "select/08_Lost_in_the_Middle_of_Nowhere_Kane_Brown_feat._Becky_G.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lost in the Middle of Nowhere (feat. Becky G)",
+      "artist": "Kane Brown",
+      "has_synced": true,
+      "path": "select/09_Lost_in_the_Middle_of_Nowhere_(feat._Becky_G)_Kane_Brown.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Out Of Nowhere Girl",
+      "artist": "Luke Bryan",
+      "has_synced": true,
+      "path": "select/10_Out_Of_Nowhere_Girl_Luke_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "You Ain't Goin' Nowhere",
+      "artist": "The Byrds",
+      "has_synced": true,
+      "path": "select/11_You_Ain't_Goin'_Nowhere_The_Byrds.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "You Ain't Goin' Nowhere (Album Version)",
+      "artist": "The Byrds",
+      "has_synced": true,
+      "path": "select/12_You_Ain't_Goin'_Nowhere_(Album_Version)_The_Byrds.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "There There. (The Boney King Of Nowhere.)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/13_There_There._(The_Boney_King_Of_Nowhere.)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Nowhere",
+      "artist": "Longview",
+      "has_synced": false,
+      "path": "select/14_Nowhere_Longview.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Nowhere At All",
+      "artist": "Lou Reed",
+      "has_synced": false,
+      "path": "select/15_Nowhere_At_All_Lou_Reed.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Back 2 Normal (feat. Nothing Nowhere)",
+      "artist": "Mikey the Magician",
+      "has_synced": false,
+      "path": "select/16_Back_2_Normal_(feat._Nothing_Nowhere)_Mikey_the_Magician.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Getting Nowhere",
+      "artist": "Magnetic Man feat. John Legend",
+      "has_synced": true,
+      "path": "select/17_Getting_Nowhere_Magnetic_Man_feat._John_Legend.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Getting Nowhere (Feat. John Legend)",
+      "artist": "Magnetic Man",
+      "has_synced": true,
+      "path": "select/18_Getting_Nowhere_(Feat._John_Legend)_Magnetic_Man.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Little Brain (feat. nothing,nowhere.)",
+      "artist": "MISOGI feat. Nothing, Nowhere.",
+      "has_synced": true,
+      "path": "select/19_Little_Brain_(feat._nothing,nowhere.)_MISOGI_feat._Nothing,_Nowhere..lrc"
+    }
+  ]
+}
